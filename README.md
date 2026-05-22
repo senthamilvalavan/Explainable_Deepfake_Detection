@@ -62,5 +62,5 @@ Maps out the system functionalities triggered by user actions.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/Explainable_Deepfake_Detection.git](https://github.com/your-username/Explainable_Deepfake_Detection.git)
+   git clone [https://github.com/senthamilvalavan/Explainable_Deepfake_Detection.git](https://github.com/senthamilvalavan/Explainable_Deepfake_Detection.git)
    cd Explainable_Deepfake_Detection
